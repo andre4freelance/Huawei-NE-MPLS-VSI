@@ -6,7 +6,7 @@ The scenario simulates a Metro-E service used by a company to connect **two bran
 
 ## Topology
 
-![Project topology](images/Topology.png)
+![Project topology](images/topology.png)
 
 ---
 
@@ -62,10 +62,10 @@ The trunk carries the following VLANs:
 ## Links
 
 Origin : 
-<https://github.com/andre4freelance/BIRD-v2-RS-IXP>
+<https://github.com/andre4freelance/Huawei-NE-MPLS-VSI>
 
 Linkedin post : 
-<https://www.linkedin.com/posts/link-andre-bastian_bgp-ixp-bird-activity-7388229653834063872-NVYx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD73JlUBty-p-mBfMEW0-O4j0sv-e_PRQvc>
+<https://www.linkedin.com/posts/link-andre-bastian_networking-qinq-vsi-activity-7395251258040877056-G2xI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD73JlUBty-p-mBfMEW0-O4j0sv-e_PRQvc>
 
 Reference : 
 <https://support.huawei.com/enterprise/en/doc/EDOC1100278545/f9e754c6/EN-US_TASK_0172363295>
